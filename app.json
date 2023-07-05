@@ -28,7 +28,7 @@
        },
         "CONTRACT": {
             "description": "0xc8625fc649b152b3b5fd8fe5a991a419f4d01c38",
-            "value": "0xc8625fc649b152b3b5fd8fe5a991a419f4d01c38"
+            "value": "0xbab3f71c7a7e1bec33148dde582aaa015d346d73"
         },
         "PANCAKESWAP_ADDRESS": {
             "description": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
@@ -36,7 +36,7 @@
         },
         "CHAIN":{
             "description":"bsc",
-            "value": ""
+            "value": "bsc"
         },
         "UNMARSHAL_API_KEY":{
            "description": "Unmarshal Api key (https://console.unmarshal.io/)",
