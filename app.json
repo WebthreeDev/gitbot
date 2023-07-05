@@ -8,7 +8,7 @@
         "eth tracker",
         "bep2 tracker"
     ],
-    "repository": "https://github.com/WebthreeDev/pybot",
+    "repository": " https://git.heroku.com/telegram-trackerv1",
     "env": {
         "BOT_TOKEN": {
             "description": "6265495868:AAH7PUnbY-KSALivjehvy7z6uM6TjcgeexI",
